@@ -20,3 +20,5 @@ Esta aplicação foi desenvolvida durante a disciplina de Sistema Distribuído, 
    - Quando o sensor de luminosidade captar uma luminosidade (em _lux_) menor que a constante (_e.g._, 500 lux) definida, o sensor avisa para a lâmpada ser ligada. Caso em um dado momento, o sensor captar uma luminosidade maior ou igual que a constante, a lâmpada será desligada;
 
 __OBS:__ O usuário é responsável por simular os dados dos sensores.
+
+[__RabbitMQ__](https://www.rabbitmq.com/getstarted.html)
