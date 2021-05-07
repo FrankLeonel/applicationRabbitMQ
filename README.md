@@ -21,4 +21,4 @@ Esta aplicação foi desenvolvida durante a disciplina de Sistema Distribuído, 
 
 __OBS:__ O usuário é responsável por simular os dados dos sensores.
 
-[__RabbitMQ__](https://www.rabbitmq.com/getstarted.html)
+Para mais informações sobre o __RabbitMQ__ [clique aqui](https://www.rabbitmq.com/getstarted.html)
